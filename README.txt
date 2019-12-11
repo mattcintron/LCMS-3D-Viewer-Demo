@@ -9,7 +9,7 @@ To Use-
 
 2 move in code
 
-3 run requirements file – for Mayavi you will also need to have C++ visual studios tools installed and a link to in in your path vars – see this for more info- 
+3 run requirements file – for Mayavi you will also need to have C++ visual studios tools installed and a link to it in your path vars – see this for more info- 
 https://docs.enthought.com/mayavi/mayavi/installation.html
 
 4- Use line 43 to set your target data
