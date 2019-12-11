@@ -1,5 +1,5 @@
 This project was designed to showcase the power of Mayavi and its 3D visualization tools as well as provide our LCMS data 
-scientists over at the Lab a quick in house tool for reading in and viewing their data. The data is project in full 3D and after render there is usually zero delay on intractability.
+scientists over at the Lab a quick in house tool for reading in and viewing their data. The data is shown in full 3D and after render there is usually zero delay on intractability.
 
 Current charting dose use a down-sampling algorithm to make data load quicker but data is almost entirely persevered as with
 Mayavi a down-sampling of only 1.2 is usually needed on most data sets. For example on a run of 90MB with 2500000 points we will render a chart that has 2million plus points after the data is modified. 
