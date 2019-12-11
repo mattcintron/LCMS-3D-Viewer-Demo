@@ -40,7 +40,7 @@ def scale_function(lcms_data):
 
 
 # process the data to arrays
-data = pd.read_csv("HP_1a1.csv")
+data = pd.read_csv("ExampleData.csv")
 data = np.array(data)
 x = data[:, 0]
 y = data[:, 1]
